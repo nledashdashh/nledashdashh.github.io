@@ -1,19 +1,17 @@
 .my-list {
-    margin: 0 auto;             /* Căn giữa khung trên màn hình [cite: 411] */
-    padding: 8px 24px;          /* Tạo khoảng trống bên trong [cite: 412] */
-    width: 500px;               /* Độ rộng của khung vàng [cite: 413] */
-    font-size: 30px;            /* Chữ to dễ đọc [cite: 414] */
-    border: 1px solid #f7f381;  /* Viền vàng [cite: 415] */
-    background: #f7f381;        /* Màu nền vàng mã #f7f381 [cite: 367, 415] */
-    box-shadow: 0 0 10px 2px #333333; /* Đổ bóng xung quanh khung [cite: 416] */
+    margin: 0 auto;
+    padding: 8px 24px;
+    width: 500px;
+    font-size: 30px;
+    border: 1px solid #f7f381;
+    background: #f7f381;
+    box-shadow: 0 0 10px 2px #333333;
 }
 
-/* Khoảng cách cho danh sách số [cite: 418] */
 .my-list ol {
-    margin: 12px; [cite: 419]
+    margin: 12px;
 }
 
-/* Căn giữa dòng ngày tháng [cite: 369, 421] */
 .my-list p {
-    text-align: center; [cite: 422]
+    text-align: center;
 }
